@@ -50,3 +50,4 @@ wp-config.php
 # Backups
 sensitive_database/
 admin_files/
+htdocs/
